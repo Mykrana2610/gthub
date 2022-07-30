@@ -1,0 +1,6 @@
+#include<iostream.h>
+Using namespace std;
+Int main ()
+{
+ Std:count<<"hello world..!!";
+Return0;
